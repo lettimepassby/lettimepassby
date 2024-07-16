@@ -25,5 +25,12 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/lettimepassby"><img src="https://img.shields.io/badge/GitHub-lettimepassby-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/353768250"><img src="https://img.shields.io/badge/时流TimePassBy-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-86416409-green?logo=tencentqq" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=END&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20you%20never%20have%20a%20bug.&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
